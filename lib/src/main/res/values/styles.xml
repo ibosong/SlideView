@@ -1,0 +1,6 @@
+<resources>
+    <declare-styleable name="SlideView">
+        <attr name="dragLayout" format="integer"/>
+        <attr name="optionsLayout" format="integer"/>
+    </declare-styleable>
+</resources>
